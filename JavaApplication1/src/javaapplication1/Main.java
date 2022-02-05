@@ -4,6 +4,8 @@
  */
 package javaapplication1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author juane
@@ -14,7 +16,7 @@ public class Main {
      
      */
     public static void main() {
-        // TODO code application logic here
+      
     }
     
 }
